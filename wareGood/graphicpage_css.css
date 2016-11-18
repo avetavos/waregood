@@ -1,0 +1,94 @@
+*
+{
+    box-sizing: border-box;
+}
+
+body
+{
+    background: #fefefe;
+    display: block;
+    margin: auto;
+    font-family: "Thai Sans Lite";
+    font-size: 40px;
+}
+
+header h1
+{
+    margin-top: 0;
+    text-align: center;
+}
+
+nav
+{
+    margin: auto;
+    width: 90%;
+    font-family: "Thai Sans Lite";
+    font-size: 30px;
+    display: block;
+    background: #191919;
+    border-radius: 10px;
+}
+
+nav ul li
+{
+    text-align: center;
+    display: inline;
+    list-style: none;
+    line-height: 60px;
+    padding-left: 12%;
+}
+
+nav ul li a
+{
+    color: white;
+    text-decoration: none;
+}
+
+div
+{
+    text-align: center;
+}
+
+div article img
+{
+    padding-left: 5%;
+}
+
+div article
+{
+    font-size: 30px;
+}
+
+div article #firstChar
+{
+    font-size: 55px;
+    font-weight: bold;
+}
+
+div article #warning
+{
+    font-size: 35px;
+    font-weight: bold;
+}
+
+#OSS
+{
+    background: #f2f2f2;
+}
+
+footer
+{
+    clear: both;
+    padding: 1%;
+    font-size: 25px;
+    background: #191919;
+    margin: auto;
+    color: white;
+}
+
+footer img
+{
+    float: right;
+    margin-top: 0;
+    margin: auto;
+}
