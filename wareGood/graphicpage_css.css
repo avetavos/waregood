@@ -46,34 +46,71 @@ nav ul li a
 
 div
 {
-    text-align: center;
-}
-
-div article img
-{
-    padding-left: 5%;
-}
-
-div article
-{
     font-size: 30px;
 }
 
-div article #firstChar
-{
-    font-size: 55px;
-    font-weight: bold;
-}
-
-div article #warning
-{
-    font-size: 35px;
-    font-weight: bold;
-}
-
-#OSS
+div #left
 {
     background: #f2f2f2;
+}
+
+div #left #leftlogo
+{
+    margin-left: 10%;
+    margin-right: 10%;
+    float: left;
+}
+
+div #left a
+{
+    color: black;
+    text-decoration: none;
+    font-size: 60px;
+    font-weight: bold;
+}
+
+div #left h2
+{
+    margin-left: 10%;
+    font-size: 50px;
+}
+
+div #left p
+{
+    margin-right: 10%;
+}
+
+div #right #rightlogo
+{
+    margin-left: 10%;
+    margin-right: 10%;
+    float: right;
+}
+
+div #right p
+{
+    margin-left: 10%;
+}
+
+div #right h2
+{
+    text-align: right;
+    margin-right: 10%;
+    font-size: 50px;
+}
+
+div #right p
+{
+    margin-top: 0;
+}
+
+div #right a
+{
+    color: black;
+    text-decoration: none;
+    font-size: 60px;
+    font-weight: bold;
+    margin-left: 45%;
 }
 
 footer
